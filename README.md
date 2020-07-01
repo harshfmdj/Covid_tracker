@@ -1,2 +1,2 @@
 # Covid
-my first repository
+This will map covid cases worldwide
