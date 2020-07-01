@@ -1,2 +1,2 @@
-# hello-world
+# Covid
 my first repository
